@@ -1,0 +1,283 @@
+{
+  "juanperez": {
+    "nombres": "Juan",
+    "apellidos": "Pérez",
+    "edad": 22,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Ciclismo", "Natación"]
+  },
+  "mariagomez": {
+    "nombres": "María",
+    "apellidos": "Gómez",
+    "edad": 30,
+    "colombiano": true,
+    "deportes": ["Baloncesto", "Voleibol", "Ajedrez"]
+  },
+  "carlosrodriguez": {
+    "nombres": "Carlos",
+    "apellidos": "Rodríguez",
+    "edad": 45,
+    "colombiano": true,
+    "deportes": ["Tenis", "Atletismo", "Natación"]
+  },
+  "laurasanchez": {
+    "nombres": "Laura",
+    "apellidos": "Sánchez",
+    "edad": 27,
+    "colombiano": false,
+    "deportes": ["Gimnasia", "Ajedrez", "Natación"]
+  },
+  "pedrogarcia": {
+    "nombres": "Pedro",
+    "apellidos": "García",
+    "edad": 19,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Ajedrez", "Ciclismo"]
+  },
+  "anafernandez": {
+    "nombres": "Ana",
+    "apellidos": "Fernández",
+    "edad": 34,
+    "colombiano": true,
+    "deportes": ["Baloncesto", "Atletismo", "Tenis"]
+  },
+  "luismartinez": {
+    "nombres": "Luis",
+    "apellidos": "Martínez",
+    "edad": 40,
+    "colombiano": false,
+    "deportes": ["Ciclismo", "Voleibol", "Natación"]
+  },
+  "carolinatapia": {
+    "nombres": "Carolina",
+    "apellidos": "Tapia",
+    "edad": 23,
+    "colombiano": true,
+    "deportes": ["Gimnasia", "Natación", "Ajedrez"]
+  },
+  "diegoherrera": {
+    "nombres": "Diego",
+    "apellidos": "Herrera",
+    "edad": 28,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Tenis", "Ciclismo"]
+  },
+  "sofialopez": {
+    "nombres": "Sofía",
+    "apellidos": "López",
+    "edad": 31,
+    "colombiano": false,
+    "deportes": ["Voleibol", "Atletismo", "Gimnasia"]
+  },
+  "miguelramirez": {
+    "nombres": "Miguel",
+    "apellidos": "Ramírez",
+    "edad": 36,
+    "colombiano": true,
+    "deportes": ["Ciclismo", "Natación", "Baloncesto"]
+  },
+  "jessicaruiz": {
+    "nombres": "Jessica",
+    "apellidos": "Ruiz",
+    "edad": 24,
+    "colombiano": true,
+    "deportes": ["Ajedrez", "Gimnasia", "Tenis"]
+  },
+  "andresdiaz": {
+    "nombres": "Andrés",
+    "apellidos": "Díaz",
+    "edad": 29,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Baloncesto", "Atletismo"]
+  },
+  "helenamendoza": {
+    "nombres": "Helena",
+    "apellidos": "Mendoza",
+    "edad": 38,
+    "colombiano": false,
+    "deportes": ["Natación", "Tenis", "Voleibol"]
+  },
+  "robertotorres": {
+    "nombres": "Roberto",
+    "apellidos": "Torres",
+    "edad": 33,
+    "colombiano": true,
+    "deportes": ["Atletismo", "Ciclismo", "Ajedrez"]
+  },
+
+  "extrauser01": {
+    "nombres": "Extra",
+    "apellidos": "Usuario01",
+    "edad": 21,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Natación", "Tenis"]
+  },
+  "extrauser02": {
+    "nombres": "Extra",
+    "apellidos": "Usuario02",
+    "edad": 22,
+    "colombiano": false,
+    "deportes": ["Baloncesto", "Ajedrez", "Ciclismo"]
+  },
+  "extrauser03": {
+    "nombres": "Extra",
+    "apellidos": "Usuario03",
+    "edad": 23,
+    "colombiano": true,
+    "deportes": ["Atletismo", "Voleibol", "Gimnasia"]
+  },
+  "extrauser04": {
+    "nombres": "Extra",
+    "apellidos": "Usuario04",
+    "edad": 24,
+    "colombiano": false,
+    "deportes": ["Fútbol", "Ciclismo", "Natación"]
+  },
+  "extrauser05": {
+    "nombres": "Extra",
+    "apellidos": "Usuario05",
+    "edad": 25,
+    "colombiano": true,
+    "deportes": ["Baloncesto", "Tenis", "Ajedrez"]
+  },
+  "extrauser06": {
+    "nombres": "Extra",
+    "apellidos": "Usuario06",
+    "edad": 26,
+    "colombiano": false,
+    "deportes": ["Gimnasia", "Atletismo", "Ciclismo"]
+  },
+  "extrauser07": {
+    "nombres": "Extra",
+    "apellidos": "Usuario07",
+    "edad": 27,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Natación", "Gimnasia"]
+  },
+  "extrauser08": {
+    "nombres": "Extra",
+    "apellidos": "Usuario08",
+    "edad": 28,
+    "colombiano": false,
+    "deportes": ["Baloncesto", "Voleibol", "Tenis"]
+  },
+  "extrauser09": {
+    "nombres": "Extra",
+    "apellidos": "Usuario09",
+    "edad": 29,
+    "colombiano": true,
+    "deportes": ["Ajedrez", "Ciclismo", "Atletismo"]
+  },
+  "extrauser10": {
+    "nombres": "Extra",
+    "apellidos": "Usuario10",
+    "edad": 30,
+    "colombiano": false,
+    "deportes": ["Natación", "Tenis", "Voleibol"]
+  },
+  "extrauser11": {
+    "nombres": "Extra",
+    "apellidos": "Usuario11",
+    "edad": 31,
+    "colombiano": true,
+    "deportes": ["Gimnasia", "Fútbol", "Atletismo"]
+  },
+  "extrauser12": {
+    "nombres": "Extra",
+    "apellidos": "Usuario12",
+    "edad": 32,
+    "colombiano": false,
+    "deportes": ["Ciclismo", "Ajedrez", "Natación"]
+  },
+  "extrauser13": {
+    "nombres": "Extra",
+    "apellidos": "Usuario13",
+    "edad": 33,
+    "colombiano": true,
+    "deportes": ["Baloncesto", "Gimnasia", "Tenis"]
+  },
+  "extrauser14": {
+    "nombres": "Extra",
+    "apellidos": "Usuario14",
+    "edad": 34,
+    "colombiano": false,
+    "deportes": ["Atletismo", "Voleibol", "Ciclismo"]
+  },
+  "extrauser15": {
+    "nombres": "Extra",
+    "apellidos": "Usuario15",
+    "edad": 35,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Natación", "Ajedrez"]
+  },
+  "extrauser16": {
+    "nombres": "Extra",
+    "apellidos": "Usuario16",
+    "edad": 36,
+    "colombiano": false,
+    "deportes": ["Tenis", "Ciclismo", "Gimnasia"]
+  },
+  "extrauser17": {
+    "nombres": "Extra",
+    "apellidos": "Usuario17",
+    "edad": 37,
+    "colombiano": true,
+    "deportes": ["Baloncesto", "Atletismo", "Voleibol"]
+  },
+  "extrauser18": {
+    "nombres": "Extra",
+    "apellidos": "Usuario18",
+    "edad": 38,
+    "colombiano": false,
+    "deportes": ["Ajedrez", "Natación", "Tenis"]
+  },
+  "extrauser19": {
+    "nombres": "Extra",
+    "apellidos": "Usuario19",
+    "edad": 39,
+    "colombiano": true,
+    "deportes": ["Ciclismo", "Fútbol", "Atletismo"]
+  },
+  "extrauser20": {
+    "nombres": "Extra",
+    "apellidos": "Usuario20",
+    "edad": 40,
+    "colombiano": false,
+    "deportes": ["Gimnasia", "Baloncesto", "Natación"]
+  },
+  "extrauser21": {
+    "nombres": "Extra",
+    "apellidos": "Usuario21",
+    "edad": 41,
+    "colombiano": true,
+    "deportes": ["Voleibol", "Ajedrez", "Ciclismo"]
+  },
+  "extrauser22": {
+    "nombres": "Extra",
+    "apellidos": "Usuario22",
+    "edad": 42,
+    "colombiano": false,
+    "deportes": ["Atletismo", "Natación", "Tenis"]
+  },
+  "extrauser23": {
+    "nombres": "Extra",
+    "apellidos": "Usuario23",
+    "edad": 43,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Gimnasia", "Ajedrez"]
+  },
+  "extrauser24": {
+    "nombres": "Extra",
+    "apellidos": "Usuario24",
+    "edad": 44,
+    "colombiano": false,
+    "deportes": ["Ciclismo", "Tenis", "Voleibol"]
+  },
+  "extrauser25": {
+    "nombres": "Extra",
+    "apellidos": "Usuario25",
+    "edad": 45,
+    "colombiano": true,
+    "deportes": ["Atletismo", "Natación", "Baloncesto"]
+  }
+}

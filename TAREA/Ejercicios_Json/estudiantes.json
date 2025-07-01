@@ -1,0 +1,72 @@
+{
+  "EST01": {
+    "nombres": "Carlos",
+    "apellidos": "Gómez",
+    "edad": 20,
+    "correo": "carlos.gomez@example.com",
+    "notas": [85, 90, 78, 88]
+  },
+  "EST02": {
+    "nombres": "María",
+    "apellidos": "López",
+    "edad": 22,
+    "correo": "maria.lopez@example.com",
+    "notas": [92, 87, 85, 90]
+  },
+  "EST03": {
+    "nombres": "Juan",
+    "apellidos": "Pérez",
+    "edad": 19,
+    "correo": "juan.perez@example.com",
+    "notas": [75, 80, 82, 78]
+  },
+  "EST04": {
+    "nombres": "Ana",
+    "apellidos": "Martínez",
+    "edad": 21,
+    "correo": "ana.martinez@example.com",
+    "notas": [88, 91, 85, 89]
+  },
+  "EST05": {
+    "nombres": "Luis",
+    "apellidos": "Ruiz",
+    "edad": 23,
+    "correo": "luis.ruiz@example.com",
+    "notas": [65, 70, 72, 68]
+  },
+  "EST06": {
+    "nombres": "Rosa",
+    "apellidos": "García",
+    "edad": 20,
+    "correo": "rosa.garcia@example.com",
+    "notas": [95, 99, 100, 98]
+  },
+  "EST07": {
+    "nombres": "Pedro",
+    "apellidos": "Díaz",
+    "edad": 24,
+    "correo": "pedro.diaz@example.com",
+    "notas": [55, 60, 58, 62]
+  },
+  "EST08": {
+    "nombres": "Sofía",
+    "apellidos": "Rodríguez",
+    "edad": 22,
+    "correo": "sofia.rodriguez@example.com",
+    "notas": [82, 85, 88, 90]
+  },
+  "EST09": {
+    "nombres": "Jorge",
+    "apellidos": "Méndez",
+    "edad": 25,
+    "correo": "jorge.mendez@example.com",
+    "notas": [78, 80, 76, 79]
+  },
+  "EST10": {
+    "nombres": "Laura",
+    "apellidos": "Núñez",
+    "edad": 23,
+    "correo": "laura.nunez@example.com",
+    "notas": [89, 92, 90, 94]
+  }
+}

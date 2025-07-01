@@ -1,0 +1,167 @@
+{
+    "anafernandez": {
+        "nombres": "Ana",
+        "apellidos": "Fernández",
+        "edad": 34,
+        "colombiano": true,
+        "deportes": [
+            "Baloncesto",
+            "Atletismo",
+            "Tenis"
+        ]
+    },
+    "carolinatapia": {
+        "nombres": "Carolina",
+        "apellidos": "Tapia",
+        "edad": 23,
+        "colombiano": true,
+        "deportes": [
+            "Gimnasia",
+            "Natación",
+            "Ajedrez"
+        ]
+    },
+    "miguelramirez": {
+        "nombres": "Miguel",
+        "apellidos": "Ramírez",
+        "edad": 36,
+        "colombiano": true,
+        "deportes": [
+            "Ciclismo",
+            "Natación",
+            "Baloncesto"
+        ]
+    },
+    "pedrogarcia": {
+        "nombres": "Pedro",
+        "apellidos": "García",
+        "edad": 19,
+        "colombiano": true,
+        "deportes": [
+            "Fútbol",
+            "Ajedrez",
+            "Ciclismo"
+        ]
+    },
+    "laurasanchez": {
+        "nombres": "Laura",
+        "apellidos": "Sánchez",
+        "edad": 27,
+        "colombiano": false,
+        "deportes": [
+            "Gimnasia",
+            "Ajedrez",
+            "Natación"
+        ]
+    },
+    "sofialopez": {
+        "nombres": "Sofía",
+        "apellidos": "López",
+        "edad": 31,
+        "colombiano": false,
+        "deportes": [
+            "Voleibol",
+            "Atletismo",
+            "Gimnasia"
+        ]
+    },
+    "helenamendoza": {
+        "nombres": "Helena",
+        "apellidos": "Mendoza",
+        "edad": 38,
+        "colombiano": false,
+        "deportes": [
+            "Natación",
+            "Tenis",
+            "Voleibol"
+        ]
+    },
+    "luismartinez": {
+        "nombres": "Luis",
+        "apellidos": "Martínez",
+        "edad": 40,
+        "colombiano": false,
+        "deportes": [
+            "Ciclismo",
+            "Voleibol",
+            "Natación"
+        ]
+    },
+    "andresdiaz": {
+        "nombres": "Andrés",
+        "apellidos": "Díaz",
+        "edad": 29,
+        "colombiano": true,
+        "deportes": [
+            "Fútbol",
+            "Baloncesto",
+            "Atletismo"
+        ]
+    },
+    "carlosrodriguez": {
+        "nombres": "Carlos",
+        "apellidos": "Rodríguez",
+        "edad": 45,
+        "colombiano": true,
+        "deportes": [
+            "Tenis",
+            "Atletismo",
+            "Natación"
+        ]
+    },
+    "robertotorres": {
+        "nombres": "Roberto",
+        "apellidos": "Torres",
+        "edad": 33,
+        "colombiano": true,
+        "deportes": [
+            "Atletismo",
+            "Ciclismo",
+            "Ajedrez"
+        ]
+    },
+    "mariagomez": {
+        "nombres": "María",
+        "apellidos": "Gómez",
+        "edad": 30,
+        "colombiano": true,
+        "deportes": [
+            "Baloncesto",
+            "Voleibol",
+            "Ajedrez"
+        ]
+    },
+    "juanperez": {
+        "nombres": "Juan",
+        "apellidos": "Pérez",
+        "edad": 22,
+        "colombiano": true,
+        "deportes": [
+            "Fútbol",
+            "Ciclismo",
+            "Natación"
+        ]
+    },
+    "diegoherrera": {
+        "nombres": "Diego",
+        "apellidos": "Herrera",
+        "edad": 28,
+        "colombiano": true,
+        "deportes": [
+            "Fútbol",
+            "Tenis",
+            "Ciclismo"
+        ]
+    },
+    "jessicaruiz": {
+        "nombres": "Jessica",
+        "apellidos": "Ruiz",
+        "edad": 24,
+        "colombiano": true,
+        "deportes": [
+            "Ajedrez",
+            "Gimnasia",
+            "Tenis"
+        ]
+    }
+}

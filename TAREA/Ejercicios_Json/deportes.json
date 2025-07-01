@@ -1,0 +1,110 @@
+{
+    "Fútbol": [
+        "juanperez",
+        "pedrogarcia",
+        "diegoherrera",
+        "andresdiaz",
+        "danielavargas",
+        "isabellacruz",
+        "fernandolopez",
+        "matiascortez",
+        "alonsosuarez"
+    ],
+    "Ciclismo": [
+        "juanperez",
+        "pedrogarcia",
+        "luismartinez",
+        "diegoherrera",
+        "miguelramirez",
+        "robertotorres",
+        "mariavilla",
+        "pablomedina",
+        "marcelaquiroz",
+        "hilarygutierrez",
+        "rocioparedes",
+        "alonsosuarez",
+        "emiliomorales"
+    ],
+    "Natación": [
+        "juanperez",
+        "carlosrodriguez",
+        "laurasanchez",
+        "luismartinez",
+        "carolinatapia",
+        "miguelramirez",
+        "helenamendoza",
+        "javierquintero",
+        "isabellacruz",
+        "fernandolopez",
+        "julietarodriguez",
+        "veronicamartin"
+    ],
+    "Baloncesto": [
+        "mariagomez",
+        "anafernandez",
+        "miguelramirez",
+        "andresdiaz",
+        "mariavilla",
+        "fernandolopez",
+        "rocioparedes",
+        "emiliomorales"
+    ],
+    "Voleibol": [
+        "mariagomez",
+        "luismartinez",
+        "sofialopez",
+        "helenamendoza",
+        "danielavargas",
+        "sergioramirez",
+        "hilarygutierrez",
+        "rocioparedes"
+    ],
+    "Ajedrez": [
+        "mariagomez",
+        "laurasanchez",
+        "pedrogarcia",
+        "carolinatapia",
+        "jessicaruiz",
+        "robertotorres",
+        "mariavilla",
+        "sergioramirez",
+        "hilarygutierrez",
+        "julietarodriguez",
+        "veronicamartin"
+    ],
+    "Tenis": [
+        "carlosrodriguez",
+        "anafernandez",
+        "diegoherrera",
+        "jessicaruiz",
+        "helenamendoza",
+        "javierquintero",
+        "pablomedina",
+        "sergioramirez",
+        "julietarodriguez",
+        "emiliomorales"
+    ],
+    "Atletismo": [
+        "carlosrodriguez",
+        "anafernandez",
+        "sofialopez",
+        "andresdiaz",
+        "robertotorres",
+        "javierquintero",
+        "pablomedina",
+        "marcelaquiroz",
+        "matiascortez",
+        "alonsosuarez"
+    ],
+    "Gimnasia": [
+        "laurasanchez",
+        "carolinatapia",
+        "sofialopez",
+        "jessicaruiz",
+        "danielavargas",
+        "isabellacruz",
+        "marcelaquiroz",
+        "matiascortez",
+        "veronicamartin"
+    ]
+}
